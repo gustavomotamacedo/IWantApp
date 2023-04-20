@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\IWantApp.csproj": {}
+    "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\IWantApp.csproj": {
+    "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\IWantApp.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj",
         "projectName": "IWantApp",
-        "projectPath": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\IWantApp.csproj",
+        "projectPath": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
