@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9+MLaxGKmjtjtbxtw90+TphYXvp+WKwGVwfHN+G8ZZ2Jd+/aeum4mRq+PeOfCp0w3Sg/i/j9CJ8p0HOFsGNRGA==",
+  "dgSpecHash": "7lyEVp2FWaIt+ipAt0JuqJLEkudLL/bTh/BS154v0vJLuKA82+ygwA3w7EolNIn77s2/N1nkxEhlVT6UCH/BWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gusta\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
